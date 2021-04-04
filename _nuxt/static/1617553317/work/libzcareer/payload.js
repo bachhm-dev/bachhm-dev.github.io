@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/work/libzcareer", {data:[{}],fetch:{},mutations:[]});

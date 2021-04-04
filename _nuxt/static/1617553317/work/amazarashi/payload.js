@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/work/amazarashi", {data:[{}],fetch:{},mutations:[]});

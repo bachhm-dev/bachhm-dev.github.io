@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/work/remote-style", {data:[{}],fetch:{},mutations:[]});

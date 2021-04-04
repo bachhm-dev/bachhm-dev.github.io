@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/work/pokemon-go", {data:[{}],fetch:{},mutations:[]});
